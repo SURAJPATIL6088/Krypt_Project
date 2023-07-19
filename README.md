@@ -49,6 +49,9 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm run dev
    ```
+### For Seting up the Hardhat 
+Follow these : 
+https://stackoverflow.com/questions/74902119/unable-to-install-hardhat-waffle-on-apple-silicon/76648007#76648007
 
 ### Built With
 - [Vite.js (react)](https://vitejs.dev/)
