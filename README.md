@@ -55,7 +55,7 @@ To get a local copy up and running follow these simple example steps.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Solidity](https://soliditylang.org/)
 - [Giphy API](https://developers.giphy.com/)
-- [Vercel](https://vercel.com/)
+<!--- [Vercel](https://vercel.com/)-->
 
 ### Reference
 * [Click Here](https://youtu.be/Wn_Kb3MR_cU))
