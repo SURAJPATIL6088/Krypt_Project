@@ -3,6 +3,8 @@
 ### Description
 Krypt is a `Web3.0 blockchain application` that enables users to send transactions over the blockchain, with each transaction being permanently recorded on the blockchain.
 
+View live at : krypttransaction-web3-2723.netlify.app
+
 ### Main Functionalities:
  - Users can connect their MetaMask wallets to send ethereum through the blockchain.
  - Each transaction will be paired with a gif and it will be forever stored on the blockchain.
